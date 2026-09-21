@@ -11,7 +11,7 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
-# Change this to your file name - you have CleanedData.xlsx
+
 FILE = "CleanedData.xlsx" # if you renamed to gold.xlsx then change here
 
 # Read file
